@@ -1,0 +1,2 @@
+Hello from a tiny Python lab.
+Practice keeps examples clear and simple.
