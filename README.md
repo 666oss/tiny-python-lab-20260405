@@ -1,2 +1,7 @@
-# tiny-python-lab-20260405
-Tiny Python examples for daily practice.
+# Tiny Python Lab
+
+A small repository for lightweight Python practice and examples.
+
+## Contents
+- short scripts
+- simple examples
